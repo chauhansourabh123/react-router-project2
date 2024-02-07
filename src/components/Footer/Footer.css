@@ -1,0 +1,9 @@
+.ftbtn{
+    width: 100%;
+}
+.tranparentbtn{
+    background-color: rgba(0,0,0,.3);
+}
+.container-fluid{
+    background-color: rgba(0,0,0,.9);
+}
